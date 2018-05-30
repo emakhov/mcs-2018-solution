@@ -3,3 +3,4 @@
 data/
 wget-log
 MCS2018_CPU.cpython-36m-darwin.so
+.ipynb_checkpoints/
